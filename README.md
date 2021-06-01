@@ -18,6 +18,9 @@ The Julia implementation requires ApproxFun:
         https://github.com/dlfivefifty/ApproxFun.jl
 
 OrthogonalPolynomialFamilies - contains the framework for expanding functions and building operators on a given interval in 1D with a given weight function.
+
 DiskSliceFamilies - contains the framework for expanding functions and building operators on a specified Disk-Slice in 2D
+
 TrapeziumFamilies - contains the framework for expanding functions and building operators on a specified Trapezium in 2D
+
 SphericalCapFamiles - contains the framework for expanding functions and building operators on a specified Spherical Cap Surface in 3D
